@@ -199,7 +199,7 @@ export default function PortfolioPage() {
                             </motion.a>
 
                             <motion.a
-                              href="https://wa.me/6283879020370"
+                              href="https://wa.me/201128698632"
                               target="_blank"
                               rel="noopener noreferrer"
                               className="inline-flex items-center justify-center px-4 py-3 bg-zinc-700 hover:bg-zinc-600 text-white rounded-lg transition-colors duration-300"
@@ -220,7 +220,7 @@ export default function PortfolioPage() {
 
                           <div className="mt-4 text-sm text-gray-500">
                             <p>Owner: Lorenzo von Mfk</p>
-                            <p>Phone: +62 838-7902-0370</p>
+                            <p>Phone: +20 11 28698632</p>
                           </div>
                         </div>
                       </div>
