@@ -7,29 +7,29 @@
 
 export const siteConfig = {
   // Website information
-  name: "Raol Mukarrozi",
-  title: "Raol Mukarrozi - Personal Portfolio",
+  name: "ANGELO - NIX",
+  title: "ANGELO - NIX - Personal Portfolio",
   description: "Tech Enthusiast skilled in HTML, CSS, JavaScript, Tailwind, Node.js, and Laravel",
 
   // Social media links
   social: {
-    github: "https://github.com/latesturl",
-    email: "latesturltech@gmail.com",
+    github: "https://github.com/arthur3215",
+    email: "arthursan7766@gmail.com",
   },
 
   // Location information
-  location: "Banjarbaru, Indonesia",
+  location: "Egypt, cairo",
 
   // Professional roles
-  roles: ["Full Stack Developer", "Tech Educator", "Open Source Contributor"],
+  roles: ["Full Stack Developer", "Tech Educator", "Bot developer"],
 
   // Typing animation text
-  typingTexts: ["Full-Stack Engineer", "Web Developer", "UI/UX Enthusiast"],
+  typingTexts: ["Full-Stack Developer", "Web Developer", "Bot developer"],
 
   // Media settings
   media: {
-    backgroundMusic: "https://files.catbox.moe/kxu767.mp3",
-    profileImage: "https://raw.githubusercontent.com/latesturl/dbCDN/refs/heads/main/my-DB/my-profile.jpg",
+    backgroundMusic: "https://e.top4top.io/m_3369450ar1.mp3",
+    profileImage: "https://i.ibb.co/VdYCH50/blob.jpg",
     portfolioImage: "https://raw.githubusercontent.com/latesturl/dbCDN/refs/heads/main/my-DB/my-portofolio.jpg",
   },
 
@@ -82,4 +82,3 @@ export const siteConfig = {
   // Projects information - removed personal portfolio project
   projects: [],
 }
-
