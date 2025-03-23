@@ -8,7 +8,7 @@
 export const siteConfig = {
   // Website information
   name: "ANGELO - NIX",
-  title: "ANGELO - NIX - Personal Portfolio",
+  title: "ANGELO - NIX",
   description: "Tech Enthusiast skilled in HTML, CSS, JavaScript, Tailwind, Node.js, and Laravel",
 
   // Social media links
