@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   icons: [
     {
       rel: "icon",
-      url: "/favicon.svg",
+      url: "https://i.ibb.co/wZbrRsyc/blob.jpg",
       type: "image/svg+xml",
     },
   ],
