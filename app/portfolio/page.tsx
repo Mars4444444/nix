@@ -219,7 +219,7 @@ export default function PortfolioPage() {
                           </div>
 
                           <div className="mt-4 text-sm text-gray-500">
-                            <p>Owner: Lorenzo von Mfk</p>
+                            <p>Owner: Angelo - nix</p>
                             <p>Phone: +20 11 28698632</p>
                           </div>
                         </div>
