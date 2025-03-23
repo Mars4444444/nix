@@ -7,8 +7,8 @@
 
 export const siteConfig = {
   // Website information
-  name: "Raol Mukarrozi",
-  title: "Raol Mukarrozi - Personal Portfolio",
+  name: "Raol",
+  title: "OPEN SOURCE!!!",
   description: "Tech Enthusiast skilled in HTML, CSS, JavaScript, Tailwind, Node.js, and Laravel",
 
   // Social media links
