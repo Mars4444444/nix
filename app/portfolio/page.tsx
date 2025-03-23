@@ -165,8 +165,8 @@ export default function PortfolioPage() {
                       <div className="flex flex-col md:flex-row items-center gap-6">
                         <div className="relative w-full md:w-1/3 aspect-video md:aspect-square rounded-lg overflow-hidden bg-black">
                           <Image
-                            src="/images/mfk-partner.png"
-                            alt="MFK - Mengoding Forum Coding"
+                            src="https://i.ibb.co/tT3b1zwX/blob.jpg"
+                            alt="⌗ HOSHINO ⋮ サポート - My Channel"
                             fill
                             className="object-contain"
                           />
@@ -180,7 +180,7 @@ export default function PortfolioPage() {
 
                           <div className="flex flex-col sm:flex-row gap-3">
                             <motion.a
-                              href="https://chat.whatsapp.com/FApX3BFqNbm6TDVgW8bKmp"
+                              href="https://www.whatsapp.com/channel/0029VadpJ1YGZNCuFznsSI3w"
                               target="_blank"
                               rel="noopener noreferrer"
                               className="inline-flex items-center justify-center px-4 py-3 bg-green-600 hover:bg-green-700 text-white rounded-lg transition-colors duration-300"
